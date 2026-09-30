@@ -16,7 +16,8 @@ de Sistemas de Inteligencia Artificial.
 
 \# Sistema de IA
 
-
+## Estado del proyecto
+Prototipo inicial.
 
 \## Descripción del Proyecto
 
